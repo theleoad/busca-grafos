@@ -18,7 +18,9 @@
 Baixe os códigos e execute em programas tipo DevC++.
 
 
-###### Os códigos estão comentados para melhor entendimento
+###### Os códigos estão comentados para melhor entendimento  
+###### Trabalho contem referências a outros códigos usados na internet    
+
 
 ---
 
