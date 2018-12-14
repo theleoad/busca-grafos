@@ -14,7 +14,7 @@
 4. Kruskal
 5. Prim  
 
-##### Visualizar arquivos: [https://github.com/theleoad/busca-grafos](https://github.com/theleoad/busca-grafos)
+##### Visualizar arquivos: [Arquivos](https://github.com/theleoad/busca-grafos?files=1)
 
 **Como executar o código:**  
 Baixe os códigos e execute em programas tipo DevC++.
